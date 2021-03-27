@@ -1,5 +1,5 @@
-# FlaskAndReactMini 
-A template for Flask and React (no create-react-app)
+# ClassHub 
+The offical ClassHub repository.
 
 ## Requirements:
 - Python 3.x
